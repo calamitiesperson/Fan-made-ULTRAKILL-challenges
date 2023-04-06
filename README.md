@@ -35,5 +35,7 @@ No, the name is not a joke. This challenge is the ULTRARAGE challenge but MUCH, 
 Basically you have to P-rank every level the first time you play it, while also not getting damaged,
 collecting all the secrets, and doing the challenges. You can replay a level when it has a challenge similar
 to the 0-3 challenge or 4-1 challenge. If you fail, you have to delete the save file and start all over again.
+Also, you have to play with PSX graphics, (you can edit it however you want, the default settings are good enough)
+AND on violent difficulty. (once ukmd releases you have to play with that)
 PLEASE, FOR THE LOVE OF GOD, DO NOT TRY THIS. This is probably worse than dying IRL. (unless you wanna go insane)
 </details>
