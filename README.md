@@ -39,3 +39,23 @@ Also, you have to play with PSX graphics, (you can edit it however you want, the
 AND on violent difficulty. (once ukmd releases you have to play with that)
 PLEASE, FOR THE LOVE OF GOD, DO NOT TRY THIS. This is probably worse than dying IRL. (unless you wanna go insane)
 </details>
+<details>
+<summary>No alt fire</summary>
+It's exactly what you think it is. You aren't allowed to use alt fire.
+I recommend just binding alt fire to an obscure key (like ¨) so you wont use it accidentally.
+You can just not bind it and try playing without touching it accidentally if you wanna go insane.
+By the way, if you accidentally alt fire you just have to restart the level, no need to delete the save file.
+You can play it that way if you're insane.
+</details>
+<details>
+<summary>One weapon and fist at a time</summary>
+Basically, you can only use one weapon and fist at a time.
+Every mission you switch weapons and fists. Whiplash counts too.
+</details>
+<details>
+<summary>ULTRAWAFFLE</summary>
+(Mod credit: @Waff1e_ on YT) Very simple. You can only play with weapons and fists from
+the mod Waffle's Weapons. Heres a guide on how to install the mod: https://www.youtube.com/watch?v=rhMKhFNtiNA
+</details>
+<details>
+  <summary>Visual Hell</summary>
