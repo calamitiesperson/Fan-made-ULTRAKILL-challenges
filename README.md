@@ -59,9 +59,12 @@ the mod Waffle's Weapons. Heres a guide on how to install the mod: https://www.y
 </details>
 <details>
 <summary>Visual Hell</summary>
-You have to set your screenshake setting up to JUICE, select 36P (ABSURD) in the downscaling dropdown,
+You have to set your screenshake setting up to JUICE, select the lowest resolution, select 36P (ABSURD) in the downscaling dropdown,
 set dithering to 500%, texture warping to 200%, vertex warping to MODERN ART, enable custom
 color pallette and select the "Pink and" color pallette, and finally, set color compression to INDIE ART GAME.
 This will make the game basically unplayable. If you're an insane degenerate and this is too easy for you, you can
 always mix this with a different challenge. The worst challenge you can add to this is please help yourself.
+</details>
+<details>
+<summary></summary>
 </details>
