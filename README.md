@@ -1,7 +1,7 @@
 # List of all fan made ULTRAKILL challenges.
 <details>
   <summary>Changelog</summary>
-<p>**Note: the changelog uses DD/MM/YYYY, not MM/DD/YYYY. im not american lmao**</p>
+<p>Note: the changelog uses DD/MM/YYYY, not MM/DD/YYYY. im not american lmao</p>
  
   <p>5. 7. 2023</p>
   <p>* Added the Changelog (lol)</p>
