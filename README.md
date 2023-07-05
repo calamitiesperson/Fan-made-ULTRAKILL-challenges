@@ -1,12 +1,12 @@
 # List of all fan made ULTRAKILL challenges.
 <details>
   <summary>Changelog</summary>
-Note: the changelog uses DD/MM/YYYY, not MM/DD/YYYY. im not american lmao
+<p>**Note: the changelog uses DD/MM/YYYY, not MM/DD/YYYY. im not american lmao**</p>
  
-  5. 7. 2023
-  * Added the Changelog (lol)
-  * Added Completed/Uncompleted status thing
-  * Added Weaponless challenge
+  <p>5. 7. 2023</p>
+  <p>* Added the Changelog (lol)</p>
+  <p>* Added Completed/Uncompleted status thing</p>
+  <p>* Added Weaponless challenge</p>
 </details>
 <details>
 <summary>Clash Mode only</summary>
