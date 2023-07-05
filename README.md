@@ -1,7 +1,8 @@
 # List of all fan made ULTRAKILL challenges.
 <details>
   <summary>Changelog</summary>
-**NOTE (for the americans): The changelog uses DD/MM/YYYY, not MM/DD/YYYY.**
+**NOTE** **(for the americans)****:** **The** **changelog** **uses** **DD/MM/YYYY,** **not** **MM/DD/YYYY.**
+ 
   5. 7. 2023
   * Added the Changelog (lol)
   * Added Completed/Uncompleted status thing
